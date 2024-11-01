@@ -6,13 +6,13 @@
 -- put in this format
 -- return {
 --  "ExampleBuyerHWIDHere" -- buyer discord name
--- {
+-- }
 
 -- for more than one guy its this format
 -- return {
 --   "ExampleBuyerHWIDHere", -- buyer discord name
 --   "OtherBuyerHWIDHere" -- other buyer discord name
--- {
+-- }
 
 return {
   "33e845ef-8b55-455a-8198-ea8548631e0f" -- wizard cat
